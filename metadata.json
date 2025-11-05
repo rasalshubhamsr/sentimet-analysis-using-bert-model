@@ -1,0 +1,5 @@
+{
+  "name": "BERT Sentiment Analysis",
+  "description": "An industry-level frontend for a sentiment analysis project. It analyzes multilinguistic reviews using a simulated BERT model and provides a relative comparison with other models like MNB, RN, and LSTM.",
+  "requestFramePermissions": []
+}
